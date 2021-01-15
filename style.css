@@ -1,0 +1,86 @@
+h1{
+
+    
+    text-align:center;
+    font-size: 20px;
+
+}
+
+div.fondo{
+
+    background-color: lightblue;
+    padding: 15px;
+    margin: 0px;
+}
+
+
+hr.corta{
+
+    width: 50%;
+
+
+}
+
+
+
+img.valencia:hover{
+
+    opacity: 0.5;
+
+
+}
+
+div.linea{
+
+    background-color: blue;
+    padding: 7px;
+}
+
+
+h3{
+
+    
+    display: inline;
+    padding-left:3px;
+    padding-right:3px;
+    
+}
+
+h3:hover{
+
+    background-color: lightblue;
+    font-weight:lighter;
+}
+.valencia_antigua{
+
+    position: relative;
+    display: inline-block;
+
+}
+.texto1{
+
+    position: absolute;
+    color: blue;
+    top: 10px;
+    left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.texto2{
+
+    position: absolute;
+    color: blue;
+    top:150px;
+    left: 5%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+div.fondo2{
+
+    background-color: lightblue;
+    
+    margin: 0px;
+
+}
+
+
