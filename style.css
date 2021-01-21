@@ -52,10 +52,10 @@ h3:hover{
     font-weight:lighter;
 }
 .valencia_antigua{
-
-    position: relative;
-    display: inline-block;
-
+    width: 60%;
+    background-image: url(img/valencia_antigua.jpg);
+    font-weight: bold;
+    color: blue;
 }
 .texto1{
 
